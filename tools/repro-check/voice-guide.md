@@ -18,10 +18,9 @@ Three sections. Fill all three.
 <!-- 2-3 lines. Who is talking when you comment on an issue: your
 experience level stated plainly, what you are doing in this repo, what
 readers can expect from you. This is the register your rules protect. -->
-"Hi, im a senior student from Hunter College currently taking part in college level capstone course, and 
-CodePath AI engineering online course. 
+"Hi, I'm a senior student from Hunter College currently taking part in a college-level capstone course, and the CodePath AI engineering online course.
 
-I am interested in taking this issue. Environment is replicated on Win11, and issue is reproducible. I will update withing a week."
+I'd like to take this issue — the fail-open behavior in `verify_password` (core/security.py) looks well-scoped for a first fix. I noticed PR #75 is open against the same function; I'll check its status before duplicating work. My next step is attempting to reproduce the fail-open case locally, and I'll report back either way."
 
 ## Rules I write by
 
